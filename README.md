@@ -6,7 +6,7 @@ Welcome to my SQL Portfolio! This repository showcases various SQL-based project
 
 Here are some of the projects you'll find in this repository:
 
-🔹 Nashville_Housing_Data
+🔹 [Nashville_Housing_Data](https://github.com/tafafa/Portfolio-Projects-in-SQL/blob/5692c99c5680319e00709ba2d1e3cedf32fd968f/nashville_housing_data_cleaning/csv/nashville_housing_data.csv)
 
 Each project contains a detailed explanation of the dataset, SQL queries used, and insights derived.
 
