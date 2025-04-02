@@ -23,6 +23,7 @@ In these projects, I utilize a variety of SQL techniques to clean, transform, an
 - Without proper cleaning, insights can be misleading and lead to poor decision-making.
 
 🛠 SQL Functions Used for Cleaning:
+
 ✅ TRIM() – Removes unnecessary spaces from text data to standardize values.
 
 ✅ SUBSTRING() – Extracts specific portions of text (e.g., separating city names from addresses).
