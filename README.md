@@ -24,15 +24,25 @@ In these projects, I utilize a variety of SQL techniques to clean, transform, an
 
 🛠 SQL Functions Used for Cleaning:
 ✅ TRIM() – Removes unnecessary spaces from text data to standardize values.
+
 ✅ SUBSTRING() – Extracts specific portions of text (e.g., separating city names from addresses).
+
 ✅ REPLACE() – Fixes inconsistencies in text, such as changing "NYC" to "New York".
+
 ✅ UPPER()/LOWER() – Standardizes case formatting in text columns.
+
 ✅ COALESCE() – Handles missing values by replacing NULL with meaningful defaults.
+
 ✅ CAST()/CONVERT() – Ensures proper data types for numerical and date values.
 
 📌 Data Transformation & Analysis Techniques:
+
 ✅ Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN) – Combining multiple tables for a complete view of data.
+
 ✅ Aggregations (COUNT(), SUM(), AVG(), MIN(), MAX()) – Summarizing key metrics.
+
 ✅ Window Functions (ROW_NUMBER(), RANK(), DENSE_RANK(), LAG(), LEAD()) – Generating rankings and trends over time.
+
 ✅ Common Table Expressions (CTEs) & Subqueries – Writing cleaner and more readable queries.
+
 ✅ Indexes & Performance Optimization – Enhancing query execution speed for large datasets.
